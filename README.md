@@ -4,8 +4,9 @@
 
 <h1 color="black" align=""><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-DEV.TO-8257E5?style=for-the-badge&labelColor=8257E5&logo=devdotto&logoColor=white&link=https://www.linkedin.com/in/digoarthur/)](https://www.linkedin.com/in/digoarthur/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-8257E5?style=for-the-badge&labelColor=8257E5&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/digoarthur/)](https://www.linkedin.com/in/digoarthur/) 
+[![Dev.TO Badge](https://img.shields.io/badge/-DEV.TO-8257E5?style=for-the-badge&labelColor=8257E5&logo=devdotto&logoColor=white&link=https://www.linkedin.com/in/digoarthur/)](https://dev.to/digoarthur) 
+
 
 <br/>
 
@@ -13,18 +14,15 @@
 
 
 
-<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d484d7c4-8dba-4f68-b52b-b09c6f08ec17"/>
-About me:</h2>
-<img align="right" width="250px" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/9ba0eb3f-f593-4ad3-9ece-6eeb24abf19f" />
+
 
 
 <div>
 
-Hi, my name is Diego Arthur.
-I'm a developer with experience in Frontend and specialized in ReactJS, but I'm specializing in Backend using NodeJS. Also, now I’m perfecting my English to get an international opportunity.
-    <br/>
-     <br/>
-Passionate about teaching... At the University I was Researcher, programming Monitor, I taught Mathematics classes in a community project[^1], I am Author of a programming book[^2] , and currently enthusiastic about Pentest and Cybersecurity. 
+
+Enthusiast for solving problems and optimizing processes using technologies.
+
+Passionate about teaching. I was a researcher, Programming Monitor, full-time professor of Mathematics in a social project[^1] and I am the author of a book of programming[^2].
 
 I like playing Indie games, I love cinema, travel and taste food.
 
