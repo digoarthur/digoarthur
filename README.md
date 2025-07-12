@@ -7,24 +7,28 @@
 
 
 
-<br/>
-
-> *"📜 When the path we follow does not suit us, we have the great power to change it. This is called Freedom."*
-
 
 <div>
 
-  ------
+
 Enthusiast for solving problems and optimizing processes using technologies.
 
 Passionate about teaching. I was a researcher, Programming Monitor, full-time professor of Mathematics in a social project[^1] and I am the author of a book of programming[^2].
-
 I like playing Indie games, I love cinema, Coffees, travel and taste food.
 
 <p align='left'>📍 🇵🇹 Living: Portugal;<br/>  👨‍🎓 🇧🇷 University: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
 </div>
 
-  ------
+
+
+<br/>
+
+
+
+> *"📜 When the path we follow does not suit us, we have the great power to change it. This is called Freedom."*
+
+-----
+
 
 <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/c3604f76-0eae-4502-9321-c4019fbdc7dc" alt="Typescript"/> <kbd> Typescript </kbd>
 <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/325d5d4f-ba01-49b7-ae07-368e057d00a9" alt="ReactJS"/> <kbd> ReactJS </kbd>
@@ -33,34 +37,11 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
 <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d493fe48-d1d7-4e8f-a5d5-b01086083278" alt="FIGMA"/> <kbd> Figma </kbd>
 <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/b5b089d5-3a20-421b-9e4d-258f8a8195aa" alt="VSCode"/>  <kbd> VsCode </kbd>
 
-
-
-
-[^1]: [Community Project - Cursinho Popular](https://www.instagram.com/integrar.cursinho/)
-[^2]: [Programming Book - R básico (Estudando o Ambiente R) (Portuguese Edition)](https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994) 
-
-
-
-
-
-
-
-
-
-
-
-<br/>
-  <br/>
-
-
-
-<h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>
-My Setup:</h2>
+#### <img height="20" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>  `My Setup:`    
 <details>
 
 
-<br/>
-  <br/>
+
 
 <div align='center'>
 
@@ -84,7 +65,8 @@ My Setup:</h2>
   <br/>
 
 
-
+[^1]: [Community Project - Cursinho Popular](https://www.instagram.com/integrar.cursinho/)
+[^2]: [Programming Book - R básico (Estudando o Ambiente R) (Portuguese Edition)](https://www.amazon.com/básico-Estudando-Ambiente-Portuguese/dp/6500515994) 
 
 
 
