@@ -9,12 +9,7 @@
 
 <br/>
 
-
-
-
-<p align="center">
- 📜 <em>"When the path we follow does not suit us, we have the great power to change it. This is called Freedom."</em>
-</p>
+> *"📜 When the path we follow does not suit us, we have the great power to change it. This is called Freedom."*
 
 
 <div>
@@ -24,7 +19,7 @@ Enthusiast for solving problems and optimizing processes using technologies.
 
 Passionate about teaching. I was a researcher, Programming Monitor, full-time professor of Mathematics in a social project[^1] and I am the author of a book of programming[^2].
 
-I like playing Indie games, I love cinema, travel and taste food.
+I like playing Indie games, I love cinema, Coffees, travel and taste food.
 
 <p align='left'>📍 🇵🇹 Living: Portugal;<br/>  👨‍🎓 🇧🇷 University: <a href="https://www.ufsj.edu.br">UFSJ - University Federal São João del-Rei </a>, <a href="https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)">Ouro Branco- MG.</a> </p>
 </div>
