@@ -5,7 +5,8 @@
 <h1 color="black" align=""><img alt="Gandalf"  width="80" height="80" src="https://user-images.githubusercontent.com/59892368/108069599-4f913180-7042-11eb-9658-4c95058f23ff.png"/> Bug shall not pass !  </h1>
 
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-8257E5?style=for-the-badge&labelColor=8257E5&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/digoarthur/)](https://www.linkedin.com/in/digoarthur/) 
+[![Dev.TO Badge](https://img.shields.io/badge/-DEV.TO-8257E5?style=for-the-badge&labelColor=8257E5&logo=devdotto&logoColor=white&link=https://www.linkedin.com/in/digoarthur/)](https://dev.to/digoarthur) 
 
 
 <div>
