@@ -31,12 +31,10 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
 -----
 
 
-<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/c3604f76-0eae-4502-9321-c4019fbdc7dc" alt="Typescript"/> <kbd> Typescript </kbd>
-<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/325d5d4f-ba01-49b7-ae07-368e057d00a9" alt="ReactJS"/> <kbd> ReactJS </kbd>
-<img height="30"  src="https://github.com/user-attachments/assets/803c2d1f-ee39-48a6-97bf-8edad7b0a72c" alt="Tailwind"/> <kbd> Tailwind </kbd>
-<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/404d62d2-ac09-45ca-b9fe-e29edb193029" alt="NodeJS"/> <kbd> NodeJS </kbd>
-<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d493fe48-d1d7-4e8f-a5d5-b01086083278" alt="FIGMA"/> <kbd> Figma </kbd>
-<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/b5b089d5-3a20-421b-9e4d-258f8a8195aa" alt="VSCode"/>  <kbd> VsCode </kbd>
+<img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/c3604f76-0eae-4502-9321-c4019fbdc7dc" alt="Typescript"/> <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/325d5d4f-ba01-49b7-ae07-368e057d00a9" alt="ReactJS"/> <img height="30"  src="https://github.com/user-attachments/assets/803c2d1f-ee39-48a6-97bf-8edad7b0a72c" alt="Tailwind"/> <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/404d62d2-ac09-45ca-b9fe-e29edb193029" alt="NodeJS"/> <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d493fe48-d1d7-4e8f-a5d5-b01086083278" alt="FIGMA"/> <img height="30"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/b5b089d5-3a20-421b-9e4d-258f8a8195aa" alt="VSCode"/>  
+<kbd> Typescript </kbd> <kbd> ReactJS </kbd> <kbd> Tailwind </kbd> <kbd> NodeJS </kbd> <kbd> Figma </kbd> <kbd> VsCode </kbd>
+ 
+
 
 #### <img height="20" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>  `My Setup:`    
 <details>
