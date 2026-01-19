@@ -42,6 +42,7 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
 
 </div>
 
+##### <img height="15" title="Brain" alt="Brain" src="https://github.com/user-attachments/assets/eba3d31f-0071-4ad8-bfc2-23a35aea5e8c"/>  Recommend: 
 
 <a href="https://www.amazon.com/Becoming-Better-Programmer-Handbook-People/dp/1491905530">
 <kbd><img  height="180" alt="Becoming a Better Programmer" src="https://github.com/user-attachments/assets/a7aecdd5-c655-4def-851a-6e48a19658d2" /></kbd> 
@@ -50,6 +51,7 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
     
 #### <img height="20" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>  `My Setup:`    
 <details>
+
 
 
 
