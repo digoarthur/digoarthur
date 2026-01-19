@@ -33,6 +33,9 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
 <img height="35"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/c3604f76-0eae-4502-9321-c4019fbdc7dc" alt="Typescript"/> <img height="35"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/325d5d4f-ba01-49b7-ae07-368e057d00a9" alt="ReactJS"/> <img height="35"  src="https://github.com/user-attachments/assets/803c2d1f-ee39-48a6-97bf-8edad7b0a72c" alt="Tailwind"/> <img height="35"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/404d62d2-ac09-45ca-b9fe-e29edb193029" alt="NodeJS"/> <img height="35"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/d493fe48-d1d7-4e8f-a5d5-b01086083278" alt="FIGMA"/> <img height="35"  src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/b5b089d5-3a20-421b-9e4d-258f8a8195aa" alt="VSCode"/>  <img height="35"  src="https://github.com/user-attachments/assets/62562e7a-6e1e-432e-a4c6-1f725b793e85" alt="C#"/>  
 <kbd> Typescript </kbd> <kbd> ReactJS </kbd> <kbd> Tailwind </kbd> <kbd> NodeJS </kbd> <kbd> Figma </kbd> <kbd> VsCode </kbd> <kbd> CSharp </kbd>
 
+
+
+
 <div align="center">
     
 ![dots-horizontal-svgrepo-com (2)](https://github.com/user-attachments/assets/8914275f-9f76-4ff5-be40-e1b36c603633)
@@ -40,8 +43,11 @@ I like playing Indie games, I love cinema, Coffees, travel and taste food.
 </div>
 
 
-<kbd><img  height="180" alt="becoming-a-better-programmer 1" src="https://github.com/user-attachments/assets/a7aecdd5-c655-4def-851a-6e48a19658d2" /></kbd> 
+<a href="https://www.amazon.com/Becoming-Better-Programmer-Handbook-People/dp/1491905530">
+<kbd><img  height="180" alt="Becoming a Better Programmer" src="https://github.com/user-attachments/assets/a7aecdd5-c655-4def-851a-6e48a19658d2" /></kbd> 
+<a/>
 
+    
 #### <img height="20" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/99d3c114-9c76-4790-a4ae-a5b5b6037a36"/>  `My Setup:`    
 <details>
 
